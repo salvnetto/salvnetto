@@ -1,0 +1,4 @@
+- 👋  Olá! Meu nome é Salvador Netto, um estudante de Estatística na UFMG (Universidade Federal de Minas Gerais).
+- 🔬 Atualmente, estou focado em aprofundar meus conhecimentos em ciência de dados, especialmente em áreas como machine learning e estatística.
+- 💡 Minhas principais habilidades incluem R, Python e SQL.
+- 📫 Você pode me encontrar no LinkedIn linkedin.com/in/salvador-netto
